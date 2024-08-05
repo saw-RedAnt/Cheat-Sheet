@@ -1,0 +1,30 @@
+
+h1 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+.table-head {
+  background-color: rgb(75,0,130);
+  color: #fff;
+}
+
+.table-head th {
+  text-align: center;
+}
+
+.table-body {
+  background-color: #00FFFF;
+}
+
